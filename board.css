@@ -1,0 +1,14 @@
+body{
+    margin:450px;
+}
+.black{
+    background-color: black;
+}
+table{
+    height:600px;
+    width:600px;
+}
+table,td,tr{
+    border:2px solid black;
+    border-collapse: collapse;
+}

@@ -1,0 +1,18 @@
+body{
+    margin:500px;
+}
+table{    
+    border-collapse: collapse;
+    text-align: center;
+    width: 500px;
+}
+th, td{
+    border:2px solid black;
+    padding: 10px;
+}
+thead yr:nth-child(1)th{
+    text-align: center;
+}
+thead yr:nth-child(3)td{
+    text-align: center;
+}
